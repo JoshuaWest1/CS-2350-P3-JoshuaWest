@@ -1,0 +1,48 @@
+
+Dump of offset 00406000
+-------------------------------
+0A 00 00 00 09 00 00 00 08 00 00
+
+Dump of offset 00406004
+-------------------------------
+09 00 00 00 08 00 00 00 07 00
+
+Dump of offset 00406008
+-------------------------------
+08 00 00 00 07 00 00 00 06
+
+Dump of offset 0040600C
+-------------------------------
+07 00 00 00 06 00 00 00
+
+Dump of offset 00406010
+-------------------------------
+06 00 00 00 05 00 00
+
+Dump of offset 00406014
+-------------------------------
+05 00 00 00 04 00
+
+Dump of offset 00406018
+-------------------------------
+04 00 00 00 03
+
+Dump of offset 0040601C
+-------------------------------
+03 00 00 00
+
+Dump of offset 00406020
+-------------------------------
+02 00 00
+
+Dump of offset 00406024
+-------------------------------
+01 00
+
+Dump of offset 00406028
+-------------------------------
+00
+
+C:\Visual Studio 2019 Projects\Project32_VS2019\Debug\Project.exe (process 41548) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
